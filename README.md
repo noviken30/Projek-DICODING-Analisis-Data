@@ -18,5 +18,4 @@ Untuk menjalankan dashboard di lokal komputer Anda, ikuti langkah-langkah beriku
 ### 1. Clone atau Download Proyek
 Clone proyek ini atau download sebagai ZIP, kemudian ekstrak file ZIP tersebut.
 
-```bash
-git clone https://github.com/your-username/your-repository.git
+
