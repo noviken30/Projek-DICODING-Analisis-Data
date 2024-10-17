@@ -12,10 +12,6 @@ Dalam proyek ini, Anda akan menemukan dua bagian utama:
 1. Notebook yang berisi analisis data secara menyeluruh, mulai dari **data wrangling** hingga **visualisasi**.
 2. **Dashboard interaktif** yang dibuat menggunakan **Streamlit** untuk menampilkan hasil analisis data secara real-time.
 
-## Cara Menjalankan Dashboard
-Untuk menjalankan dashboard di lokal komputer Anda, ikuti langkah-langkah berikut:
 
-### 1. Clone atau Download Proyek
-Clone proyek ini atau download sebagai ZIP, kemudian ekstrak file ZIP tersebut.
 
 
